@@ -199,7 +199,7 @@
         "platform": {
             "name": "jvm",
             "config": {
-                "home": "/Library/Java/JavaVirtualMachines/jdk1.8.0_271.jdk/Contents/Home/jre",
+                "home": "/usr/local/Cellar/openjdk/15.0.1/libexec/openjdk.jdk/Contents/Home",
                 "options": [
                     "-Duser.dir=/Users/davidmasterson/project-refactors/DavidM-ProjectZero/project"
                 ]
